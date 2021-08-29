@@ -1,0 +1,11 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Punto de Ventas Jlat Grupo Telegram
+${licensePrefix}Software desarrollado Open Source
+${licensePrefix}Software Libre
+${licensePrefix}podra recibir actualizaciones
+${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
