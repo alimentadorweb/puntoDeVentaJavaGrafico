@@ -1,7 +1,7 @@
 # puntodeventa
 Punto de Ventas | David Arriaga twitter.com/alimentadorweb
 
-Software en desarrollo, con tecnologias Opensource, OPENJDK Y MARIADB, DISTRIBUCION GNU
+Software en desarrollo, con tecnologias Opensource, OPENJDK Y MARIADB
 
 incluye inicialmente: Archivo, Clientes, Pagos, Reportes y Herramientas
 
